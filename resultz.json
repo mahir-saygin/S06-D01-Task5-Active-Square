@@ -8,7 +8,7 @@
   "numFailedTests": 0,
   "numPendingTests": 0,
   "numTodoTests": 0,
-  "startTime": 1703474170127,
+  "startTime": 1790708706833,
   "success": true,
   "testResults": [
     {
@@ -20,7 +20,7 @@
           "fullName": " Kareler ekranda doğru şekilde oluşmuş",
           "status": "passed",
           "title": "Kareler ekranda doğru şekilde oluşmuş",
-          "duration": 11,
+          "duration": 63,
           "failureMessages": []
         },
         {
@@ -30,7 +30,7 @@
           "fullName": " Sayfa ilk yüklendiğinde seçili bir kare yok",
           "status": "passed",
           "title": "Sayfa ilk yüklendiğinde seçili bir kare yok",
-          "duration": 2,
+          "duration": 15,
           "failureMessages": []
         },
         {
@@ -40,7 +40,7 @@
           "fullName": " Tıklanan kareye active class'ı ekleniyor.",
           "status": "passed",
           "title": "Tıklanan kareye active class'ı ekleniyor.",
-          "duration": 8,
+          "duration": 34,
           "failureMessages": []
         },
         {
@@ -50,7 +50,7 @@
           "fullName": " Bir kareye 2 kere tıklanınca active class'ı eklenip kaldırılıyor",
           "status": "passed",
           "title": "Bir kareye 2 kere tıklanınca active class'ı eklenip kaldırılıyor",
-          "duration": 6,
+          "duration": 10,
           "failureMessages": []
         },
         {
@@ -60,15 +60,15 @@
           "fullName": " Bir kareye tıklanınca diğer karalerdeki active class'ı kaldırılıyor",
           "status": "passed",
           "title": "Bir kareye tıklanınca diğer karalerdeki active class'ı kaldırılıyor",
-          "duration": 2,
+          "duration": 14,
           "failureMessages": []
         }
       ],
-      "startTime": 1703474953029,
-      "endTime": 1703474953058,
+      "startTime": 1790708709833,
+      "endTime": 1790708709970,
       "status": "passed",
       "message": "",
-      "name": "/home/projects/vitejs-vite-mv4jyn/src/__tests__/Kareler.test.jsx"
+      "name": "C:/Users/pc/Documents/GitHub/FSWEB-S6D1-Task5/src/__tests__/Kareler.test.jsx"
     }
   ]
 }
